@@ -1,0 +1,5 @@
+*.3mf binary
+*.blend binary
+*.png binary
+*.md text eol=lf
+*.json text eol=lf
